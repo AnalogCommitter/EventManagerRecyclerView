@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventManagerRecyclerView</string>
+    <string name="available_staff">available staff</string>
+    <string name="completed">completed</string>
+    <string name="upcoming">upcoming</string>
+    <string name="blank_profile_picture">blank profile picture</string>
+</resources>
