@@ -75,6 +75,8 @@ class MainActivity : AppCompatActivity() {
             adapterStaff.items = staffList
             adapterStaff.notifyDataSetChanged()
         }
+
+
     }
 
     private fun addUpcomingEventItems() {
